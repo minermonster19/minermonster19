@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @minermonster19
+- 👀 I’m interested in React Apps
+- 🌱 I’m currently learning React Apps
+- 💞️ I’m looking to collaborate on React Apps
+- 📫 How to reach me info@m19.ca
